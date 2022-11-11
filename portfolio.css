@@ -1,0 +1,65 @@
+.heading-container{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.name{
+    font-size: 30px;
+}
+
+.header-options{
+    float: right;
+    margin-top: 10px;
+    color: rgb(204, 200, 200);
+}
+
+.header-options2{
+    margin: 10px;
+}
+
+.image{
+    margin: 20px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.person-name{
+    font-size: 30px;
+    margin-left: 50px;
+    font-family: cursive;
+}
+
+.university-name{
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.icon{
+    margin-left: 70px;
+    font-size: 50px;
+}
+
+.git-icon{
+    margin-left: 80px;
+    font-size: 50px;
+}
+
+.description{
+    float: right;
+    display: inline;
+}
+
+.parent{
+    display: flex;
+}
+
+h1{
+    margin: 40px;
+    font-size: 60px;
+}
+
+.about-me{
+    margin: 40px;
+}
